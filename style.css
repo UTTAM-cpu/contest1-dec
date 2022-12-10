@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+}
+.title{
+    color: white;
+}
+.signupFrm {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  .label{
+    color: white;
+  }
+  input, textarea {
+    background-color:black;
+  }
+  hr{
+    padding: 0px;
+    margin-bottom: 10px;
+   
+  }
+  .buttons{
+    color: white;
+  }
+  footer{
+    color: white;
+  }
+  
+
+  
+  
+
+
+
